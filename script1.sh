@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Hello, Jenkins! This is an automated build triggered by GitHub webhook."
+echo "Hello, Jenkins! This is an updated triggered by GitHub webhook."
 date
 
