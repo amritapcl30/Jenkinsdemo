@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello Jenkins, Another Update at $(date)"
+echo "Hello Jenkins,  at $(date)"
